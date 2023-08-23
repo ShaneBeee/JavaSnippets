@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.shanebeestudios.snippets.gui"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.shanebeestudios.snippets.gui"},{"l":"com.shanebeestudios.snippets.item"},{"l":"com.shanebeestudios.snippets.utils"}];updateSearchResults();
